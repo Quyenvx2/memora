@@ -1,0 +1,21 @@
+
+# Maven build output
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Local databases and backups
+*.db
+*.db-shm
+*.db-wal
+backups/
+
+# Operating system
+.DS_Store
+Thumbs.db
